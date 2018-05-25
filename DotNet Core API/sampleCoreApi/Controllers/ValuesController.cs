@@ -14,9 +14,13 @@ namespace sampleCoreApi.Controllers
     {
         // GET api/values
         [HttpGet]
-        public IEnumerable<string> Get()
+        public SampleModelItem Get()
         {
-            return new string[] { "value1", "value2" };
+            SampleModelItem sampledata= new SampleModelItem();
+            sampledata.Name="sona";
+            sampledata.age=24;
+            
+            return sampledata;
         }
 
         // GET api/values/5

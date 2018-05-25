@@ -24,6 +24,8 @@ export class AppComponent {
     {console.log(err)}
    )
   }
+
+  
   postApi(){
     this.model.name='jithu';
     this.model.age=24;
