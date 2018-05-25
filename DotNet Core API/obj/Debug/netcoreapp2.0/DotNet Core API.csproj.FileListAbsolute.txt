@@ -1,0 +1,4 @@
+G:\Angular Works\Angular with .net core\DotNet Core API\obj\Debug\netcoreapp2.0\DotNet Core API.csprojAssemblyReference.cache
+G:\Angular Works\Angular with .net core\DotNet Core API\obj\Debug\netcoreapp2.0\DotNet Core API.csproj.CoreCompileInputs.cache
+G:\Angular Works\Angular with .net core\DotNet Core API\obj\Debug\netcoreapp2.0\DotNet Core API.AssemblyInfoInputs.cache
+G:\Angular Works\Angular with .net core\DotNet Core API\obj\Debug\netcoreapp2.0\DotNet Core API.AssemblyInfo.cs

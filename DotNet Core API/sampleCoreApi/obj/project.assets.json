@@ -12668,11 +12668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\DotNet Core With Angular\\sampleCoreApi\\sampleCoreApi.csproj",
+      "projectUniqueName": "G:\\Angular Works\\Angular with .net core\\DotNet Core API\\sampleCoreApi\\sampleCoreApi.csproj",
       "projectName": "sampleCoreApi",
-      "projectPath": "H:\\DotNet Core With Angular\\sampleCoreApi\\sampleCoreApi.csproj",
+      "projectPath": "G:\\Angular Works\\Angular with .net core\\DotNet Core API\\sampleCoreApi\\sampleCoreApi.csproj",
       "packagesPath": "C:\\Users\\Divya\\.nuget\\packages\\",
-      "outputPath": "H:\\DotNet Core With Angular\\sampleCoreApi\\obj\\",
+      "outputPath": "G:\\Angular Works\\Angular with .net core\\DotNet Core API\\sampleCoreApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -12668,9 +12668,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Angular Works\\Angular with .net core\\DotNet Core API\\DotNet Core With Angular.csproj",
-      "projectName": "DotNet Core With Angular",
-      "projectPath": "G:\\Angular Works\\Angular with .net core\\DotNet Core API\\DotNet Core With Angular.csproj",
+      "projectUniqueName": "G:\\Angular Works\\Angular with .net core\\DotNet Core API\\DotNet Core API.csproj",
+      "projectName": "DotNet Core API",
+      "projectPath": "G:\\Angular Works\\Angular with .net core\\DotNet Core API\\DotNet Core API.csproj",
       "packagesPath": "C:\\Users\\Divya\\.nuget\\packages\\",
       "outputPath": "G:\\Angular Works\\Angular with .net core\\DotNet Core API\\obj\\",
       "projectStyle": "PackageReference",
