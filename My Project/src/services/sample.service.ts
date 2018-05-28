@@ -21,6 +21,6 @@ export class SampleService {
   }
   postSampleApi(model) {
    // let content = JSON.stringify(data);
-    return this.http.post<any>(`${this.serviceUrl}`,model ,this.headers);
+    return this.http.post<any>(`${this.serviceUrl}`,model );
   }
 }

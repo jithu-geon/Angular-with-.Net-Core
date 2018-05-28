@@ -25,12 +25,14 @@ export class AppComponent {
    )
   }
 
-  
+
   postApi(){
-    this.model.name='jithu';
-    this.model.age=24;
+    //this.model.name='jithu';
+   // this.model.age=24;
      this.sampleservice.postSampleApi(this.model).subscribe(
-       model=>{console.log(model);}
+       model=>{console.log(model);},
+       err=>
+    {console.log(err)}
      );
   }
 }

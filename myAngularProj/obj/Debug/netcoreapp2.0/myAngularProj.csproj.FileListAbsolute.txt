@@ -1,0 +1,11 @@
+G:\Angular Works\Angular with .net core\myAngularProj\bin\Debug\netcoreapp2.0\myAngularProj.deps.json
+G:\Angular Works\Angular with .net core\myAngularProj\bin\Debug\netcoreapp2.0\myAngularProj.runtimeconfig.json
+G:\Angular Works\Angular with .net core\myAngularProj\bin\Debug\netcoreapp2.0\myAngularProj.runtimeconfig.dev.json
+G:\Angular Works\Angular with .net core\myAngularProj\bin\Debug\netcoreapp2.0\myAngularProj.dll
+G:\Angular Works\Angular with .net core\myAngularProj\bin\Debug\netcoreapp2.0\myAngularProj.pdb
+G:\Angular Works\Angular with .net core\myAngularProj\obj\Debug\netcoreapp2.0\myAngularProj.csprojAssemblyReference.cache
+G:\Angular Works\Angular with .net core\myAngularProj\obj\Debug\netcoreapp2.0\myAngularProj.csproj.CoreCompileInputs.cache
+G:\Angular Works\Angular with .net core\myAngularProj\obj\Debug\netcoreapp2.0\myAngularProj.AssemblyInfoInputs.cache
+G:\Angular Works\Angular with .net core\myAngularProj\obj\Debug\netcoreapp2.0\myAngularProj.AssemblyInfo.cs
+G:\Angular Works\Angular with .net core\myAngularProj\obj\Debug\netcoreapp2.0\myAngularProj.dll
+G:\Angular Works\Angular with .net core\myAngularProj\obj\Debug\netcoreapp2.0\myAngularProj.pdb

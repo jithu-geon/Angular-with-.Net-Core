@@ -1,0 +1,30 @@
+<mat-sidenav-container >
+  <mat-sidenav #sidenav>
+
+      <mat-list>
+          <a mat-list-item (click)="electronics()"> Electronics and Office </a>
+          <mat-list-item > Movies, Music & Books</mat-list-item>
+          <mat-list-item > Home, Furniture & Appliances </mat-list-item>
+          <mat-list-item > Clothing, Shoes and Accessories </mat-list-item>
+          <mat-list-item> Toy and Video Games </mat-list-item>
+          <mat-list-item > Sports, Fitness and Outdoors </mat-list-item>
+        </mat-list>
+
+        <mat-divider></mat-divider>
+
+        <mat-list>
+            <mat-list-item> Track orders</mat-list-item>
+            <mat-list-item > View Profile</mat-list-item>
+            <mat-list-item > Wish List</mat-list-item>
+        </mat-list>
+
+  </mat-sidenav>
+ 
+  <div class="page-wrap">
+       <button class="mat-icon-button" mat-icon-button (click)="sidenav.open()">
+          <mat-icon>Menu</mat-icon>
+        </button>
+  
+    
+  </div>
+</mat-sidenav-container>
