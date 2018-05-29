@@ -8,14 +8,18 @@ import 'rxjs/add/operator/catch';
 
 @Injectable()
 export class MyService {
-    private greetUrl = 'api/Register';
+    private serviceUrl = 'api/Register';
 
     // Resolve HTTP using the constructor
-    constructor(private _http: Http) { }
+    constructor(private http: Http) { }
 
     sayHello(): Observable<any> {
-        return this._http.get(this.greetUrl).map((response: Response) => {
+        return this.http.get(this.serviceUrl).map((response: Response) => {
             return response.text();
         });
     }
-}
+    register(model) {
+       
+         return this.http.post(`${this.serviceUrl}`,model );
+       }
+    }
