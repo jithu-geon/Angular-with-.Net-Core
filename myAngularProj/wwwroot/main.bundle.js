@@ -339,7 +339,9 @@ var MyService = /** @class */ (function () {
         });
     };
     MyService.prototype.register = function (model) {
-        return this.http.post("" + this.serviceUrl, model);
+        return this.http.post("" + this.serviceUrl, model).map(function (response) {
+            return response.text();
+        });
     };
     MyService = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* Injectable */])(),

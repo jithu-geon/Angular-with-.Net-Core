@@ -7,6 +7,7 @@ namespace myAngularProj
     [Route("api/[Controller]")]
     public class RegisterController : Controller
     {
+        RegisterRepo _repo=new RegisterRepo();
         [HttpGet]
         public IActionResult Greetings() {
             return Ok("Hello from ASP.NET Core Web API.");
@@ -18,7 +19,8 @@ namespace myAngularProj
                 {
                     return BadRequest("Recieved a Bad request");
                 }
-               return  Ok(value);
+                _repo.AddUser(value);
+               return  new ObjectResult(value);
         }
     }
 }

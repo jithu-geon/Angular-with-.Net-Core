@@ -20,6 +20,8 @@ export class MyService {
     }
     register(model) {
        
-         return this.http.post(`${this.serviceUrl}`,model );
+         return this.http.post(`${this.serviceUrl}`,model ).map((response: Response) => {
+            return response.text();
+        });
        }
     }

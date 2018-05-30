@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { MyService } from '../services/myservice';
 import { RegisterModel } from '../models/registermodel.model';
-
+import {Http, Response} from '@angular/http';
 @Component({
   selector: 'app-register',
   templateUrl: './register.component.html',
