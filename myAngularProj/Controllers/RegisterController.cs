@@ -9,8 +9,8 @@ namespace myAngularProj
     {
         RegisterRepo _repo=new RegisterRepo();
         [HttpGet]
-        public IActionResult Greetings() {
-            return Ok("Hello from ASP.NET Core Web API.");
+        public string Greetings() {
+            return ("Hello from ASP.NET Core Web API.");
         }
         [HttpPost]
          public IActionResult Post([FromBody]RegisterModel value)

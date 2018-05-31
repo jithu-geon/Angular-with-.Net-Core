@@ -1,0 +1,17 @@
+G:\Angular Works\Angular with .net core\myAngularProj.tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\Angular Works\Angular with .net core\myAngularProj.tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+G:\Angular Works\Angular with .net core\myAngularProj.tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+G:\Angular Works\Angular with .net core\myAngularProj.tests\bin\Debug\netcoreapp2.0\myAngularProj.tests.deps.json
+G:\Angular Works\Angular with .net core\myAngularProj.tests\bin\Debug\netcoreapp2.0\myAngularProj.tests.runtimeconfig.json
+G:\Angular Works\Angular with .net core\myAngularProj.tests\bin\Debug\netcoreapp2.0\myAngularProj.tests.runtimeconfig.dev.json
+G:\Angular Works\Angular with .net core\myAngularProj.tests\bin\Debug\netcoreapp2.0\myAngularProj.tests.dll
+G:\Angular Works\Angular with .net core\myAngularProj.tests\bin\Debug\netcoreapp2.0\myAngularProj.tests.pdb
+G:\Angular Works\Angular with .net core\myAngularProj.tests\bin\Debug\netcoreapp2.0\myAngularProj.dll
+G:\Angular Works\Angular with .net core\myAngularProj.tests\bin\Debug\netcoreapp2.0\myAngularProj.pdb
+G:\Angular Works\Angular with .net core\myAngularProj.tests\obj\Debug\netcoreapp2.0\myAngularProj.tests.csprojAssemblyReference.cache
+G:\Angular Works\Angular with .net core\myAngularProj.tests\obj\Debug\netcoreapp2.0\myAngularProj.tests.csproj.CoreCompileInputs.cache
+G:\Angular Works\Angular with .net core\myAngularProj.tests\obj\Debug\netcoreapp2.0\myAngularProj.tests.AssemblyInfoInputs.cache
+G:\Angular Works\Angular with .net core\myAngularProj.tests\obj\Debug\netcoreapp2.0\myAngularProj.tests.AssemblyInfo.cs
+G:\Angular Works\Angular with .net core\myAngularProj.tests\obj\Debug\netcoreapp2.0\myAngularProj.tests.csproj.CopyComplete
+G:\Angular Works\Angular with .net core\myAngularProj.tests\obj\Debug\netcoreapp2.0\myAngularProj.tests.dll
+G:\Angular Works\Angular with .net core\myAngularProj.tests\obj\Debug\netcoreapp2.0\myAngularProj.tests.pdb
