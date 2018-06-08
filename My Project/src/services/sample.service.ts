@@ -4,15 +4,7 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
 @Injectable()
 export class SampleService {
   // private instance variable to hold base url
-  private serviceUrl = 'http://localhost:5000/api/values';
-  headers={
-    headers: new HttpHeaders({
-        'Content-Type': 'application/json',
-        'accept': 'application/json'
-        
-    })
-  
-}
+  private serviceUrl = 'http://localhost:54705/api/MyProject';
 
   constructor(private http: HttpClient) { }
 

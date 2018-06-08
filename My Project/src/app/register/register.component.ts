@@ -1,6 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import {FormsModule } from '@angular/forms';
 import { RegisterModel } from '../../models/registermodel.model';
+import { SampleService } from '../../services/sample.service';
+
  
 @Component({
   selector: 'app-register',
@@ -8,15 +10,17 @@ import { RegisterModel } from '../../models/registermodel.model';
   styleUrls: ['./register.component.css']
 })
 export class RegisterComponent implements OnInit {
-  model:RegisterModel=new RegisterModel()
-  constructor() { }
+  // model:RegisterModel=new RegisterModel()
+  res:any
+  constructor(private sampleService: SampleService) { }
 
   ngOnInit() {
   }
   register(){
-    // this.  sampleservice.getSampleApi().subscribe(
-    //   res => {
-    //     this.res = res
-    //     console.log(res)
+    this.sampleService.getSampleApi().subscribe(
+      res => {
+        this.res = res
+        console.log(res)
+      })
   }
 }
